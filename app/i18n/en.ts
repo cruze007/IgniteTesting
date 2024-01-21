@@ -48,7 +48,7 @@ const en = {
     podcastListTab: "Podcast",
   },
   demoCommunityScreen: {
-    title: "Connect with the community",
+    title: " Connect with the community",
     tagLine:
       "Plug in to Infinite Red's community of React Native engineers and level up your app development with us!",
     joinUsOnSlackTitle: "Join us on Slack",
